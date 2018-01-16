@@ -22,6 +22,7 @@
 	</dependency>
   </dependencies>
   <build>
+  <!-- 这个是测试本地库的文件我瞎写的 -->
     <finalName>DemoRain</finalName>
     <!-- maven部署项目-->
     <plugins>
